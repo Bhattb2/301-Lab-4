@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+/* 
+
 @media (max-width: 768px) {
     body {
       width: 100%;
@@ -46,7 +51,7 @@
   @media (min-width: 768px){
    
     p {
-      background-color: #725c24fb;
+      background-color: #634e19;
       border: solid #161874 .1px;
       text-align: center;
       align-items: center;
