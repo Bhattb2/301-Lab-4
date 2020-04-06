@@ -142,39 +142,39 @@
   }
 
   #b {
-    background-color:lightblue;
+    background-color:#e2c647ec;
     width: 100%;
     height: 150px;
   }
 
   #c {
-    background-color:lightcoral;
+    background-color:#c069e2;
     height: 125px;
   }
 
   #d {
-    background-color: lightcyan;
+    background-color: #6e8ffa;
     height: 125px;
   }
 
   #e {
-    background-color:lavender; 
+    background-color:#c95110; 
   }
 
   #f {
-    background-color: lavenderblush;
+    background-color: #ddcf0ed5;
 }
 
   #g {
-    background-color:lawngreen;
+    background-color:#7cfc00;
   }
 
   #h {
-    background-color: lightgoldenrodyellow;
+    background-color: #313de9;
   }
 
   #j {
-    background-color: lightgray;
+    background-color: #928787;
     height: 80px;
   }
 }
@@ -252,30 +252,30 @@
   }
 
   #a, #b, #c, #d, #e, #f, #g, #h, #j {
-    border: solid black;
+    border: solid #200fb1;
   }
 
   #a {
-     background-color: firebrick;
+     background-color: #ec640a;
   }
   #b {
-    background-color: floralwhite;
+    background-color: #d3a343;
   }
   #c, #d {
-    background-color: forestgreen;
+    background-color: #d73de6;
   }
 
   #e, #f, #g, #h {
  
-    background-color: fuchsia;
+    background-color: #73ff00;
   }
 
   #f{
-    background-color: gainsboro;
+    background-color: #3a93c7;
   }
 
   #g {
-    background-color: ghostwhite;
+    background-color: #e40926ea;
   }
   
   #h {
@@ -283,6 +283,6 @@
   }
 
   #j {
-    background-color: goldenrod;
+    background-color: #1114dd;
   }
 }
